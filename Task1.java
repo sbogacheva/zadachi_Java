@@ -9,6 +9,7 @@ public class Main {
       System.out.println("tk="+(tc+273.15));
       System.out.println("tk="+(tc+273.15));
       System.out.println("tk="+(tc+273.15));
+      System.out.println("tf="+(tc*1.8+32));
 
 
   }
