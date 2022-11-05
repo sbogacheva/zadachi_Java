@@ -1,4 +1,4 @@
-package TaskBonus
+package TaskBonus;
 import java.util.*;
 public class Main
 {
